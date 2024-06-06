@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hina Bandukwala</h1>
-<h3 align="center">I am an aspiring data scientist with a passion for leveraging AI to transform data into biomedical discoveries.</h3>
+<h3 align="center">Aspiring Data Scientist | Passionate about AI & Data-driven Innovations Across Disciplines</h3>
 
-<h4 align="left"> About me:</p>
-<p align="left"> - 🌱 I’m currently pursuing a Master of Data Science at University of British Columbia with an expected date of June 30, 2024.</p>
-<p align="left"> - 💻 Prior to this, I worked as a bioinformatician at Public Health Ontario developing pipelines for genomic analysis of pathogens that were of public interest in Ontario, Canada. Before that I worked within the academic sector for several years investigating the genomic, transcriptomic, and epigenomic landscape of skeletal muscle regeneration.</p>
-<p align="left"> - 🎓I graduated from University of Waterloo with my Bachelor and Master degrees in Biology in 2017.</p>
-
+<h4 align="left">About me:</h4>
+<p align="left">- 🌱 I’m currently pursuing a Master of Data Science at the University of British Columbia, with an expected graduation date of June 30, 2024.</p>
+<p align="left">- 💻 My professional background includes working as a bioinformatician at Public Health Ontario, where I developed genomic analysis pipelines for pathogens. My research extended into various sectors, including academic research focused on the genomic, transcriptomic, and epigenomic landscape of skeletal muscle regeneration.</p>
+<p align="left">- 📘 Beyond biology, I am keen to apply my data science skills to solve problems in different fields such as healthcare, technology, and environmental science.</p>
+<p align="left">- 🎓 I graduated from the University of Waterloo with Bachelor and Master degrees in Biology in 2017.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
