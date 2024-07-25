@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hina Bandukwala</h1>
-<h3 align="center">Aspiring Data Scientist | Passionate about AI & Data-driven Innovations Across Disciplines</h3>
+<h3 align="center">Data Scientist | Passionate about AI & Data-driven Innovations Across Disciplines</h3>
 
 <h4 align="left">About me:</h4>
 <p align="left">- 🌱 I’m currently pursuing a Master of Data Science at the University of British Columbia, with an expected graduation date of June 30, 2024.</p>
