@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hina Bandukwala</h1>
-<h3 align="center">Data Scientist | Passionate about AI & Data-driven Innovations Across Disciplines</h3>
+<h3 align="center">Data Scientist | Computational Biologist | Bioinformatician </h3>
 
 <h4 align="left">About me:</h4>
 <p align="left">- Innovative Data Scientist building on a foundational career in Bioinformatics. Curious and creative with extensive experience in statistical analysis and machine learning. 
